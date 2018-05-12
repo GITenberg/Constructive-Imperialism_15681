@@ -1,0 +1,31 @@
+_repo: Constructive-Imperialism_15681
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Milner, Alfred Milner, Viscount
+    birthdate: 1854
+    deathdate: 1925
+    gutenberg_agent_id: '6194'
+    url: http://www.gutenberg.org/2009/agents/6194
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Milner,_1st_Viscount_Milner
+description: ''
+gutenberg_issued: '2005-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15681'
+  lccn: 09016856
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'JN'
+- !lcsh 'Great Britain -- Politics and government -- 1901-1910'
+tableOfContents: Tariff reform (Tunbridge Wells) -- A constructive policy (Guildford)
+  -- Unionists and the empire (Edinburgh) -- Unionists and social reform (Rugby) --
+  Sweated industries (Oxford).
+title: Constructive Imperialism
+url: http://www.gutenberg.org/ebooks/15681
